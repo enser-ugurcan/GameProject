@@ -1,0 +1,13 @@
+D:\c#\Alıstırmalar\GameProject\bin\Debug\netcoreapp3.1\GameProject.exe
+D:\c#\Alıstırmalar\GameProject\bin\Debug\netcoreapp3.1\GameProject.deps.json
+D:\c#\Alıstırmalar\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.json
+D:\c#\Alıstırmalar\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.dev.json
+D:\c#\Alıstırmalar\GameProject\bin\Debug\netcoreapp3.1\GameProject.dll
+D:\c#\Alıstırmalar\GameProject\bin\Debug\netcoreapp3.1\GameProject.pdb
+D:\c#\Alıstırmalar\GameProject\obj\Debug\netcoreapp3.1\GameProject.csprojAssemblyReference.cache
+D:\c#\Alıstırmalar\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfoInputs.cache
+D:\c#\Alıstırmalar\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfo.cs
+D:\c#\Alıstırmalar\GameProject\obj\Debug\netcoreapp3.1\GameProject.csproj.CoreCompileInputs.cache
+D:\c#\Alıstırmalar\GameProject\obj\Debug\netcoreapp3.1\GameProject.dll
+D:\c#\Alıstırmalar\GameProject\obj\Debug\netcoreapp3.1\GameProject.pdb
+D:\c#\Alıstırmalar\GameProject\obj\Debug\netcoreapp3.1\GameProject.genruntimeconfig.cache
